@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "The ultimate world trails list"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Frenk and Gianlu"
+name                     : "Frenk and Gian"
 description              : "An NFT project."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Frenk and Gianlu"
+  name             : "Frenk and Gian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We like hiking."
   location         : "Bologna"
@@ -113,7 +113,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url:  "https://www.instagram.com/nfts4backpackers/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,7 +125,10 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/nfts4backpackers/"
+    - label: "Opensea"
+      icon: "fas fa-fw fa-link"
+      url: "https://opensea.io/collection/nfts4backpackers"
 
 # Site Footer
 footer:
@@ -147,7 +150,11 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/nfts4backpackers/"
       # url:
+    - label: "Opensea"
+      icon: "fas fa-fw fa-link"
+      url: "https://opensea.io/collection/nfts4backpackers"
 
 
 # Reading Files
