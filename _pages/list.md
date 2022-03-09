@@ -2,7 +2,6 @@
 title: "The list"
 permalink: /list/
 layout: posts
-permalink: /list.html
 ---
 
 

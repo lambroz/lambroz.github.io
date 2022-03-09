@@ -1,7 +1,7 @@
 ---
 title: "The roadmap"
 layout: single
-permalink: /roadmap.html
+permalink: /roadmap/
 ---
 
 Mid – March:

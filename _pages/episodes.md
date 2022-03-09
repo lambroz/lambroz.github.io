@@ -1,7 +1,7 @@
 ---
 title: "Episodes"
 layout: posts
-permalink: /episodes.html
+permalink: /episodes/
 ---
 
 
