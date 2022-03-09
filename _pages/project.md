@@ -4,16 +4,20 @@ layout: single
 permalink: /project.html
 ---
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+<p>Financial services consultants by day, and adamant hikers whenever on leave, Gian and Frank consolidated a bucket list of 121 trails (1st iteration) which are considered to be worth doing during a lifetime.</p>
 
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+<p>As the 1st iteration was based solely on personal experience and desktop research, Gian and Frank seek to refine the bucket list by nurturing and engaging a community of hikers, whose recommendations and suggestions will help shape the Ultmate World’s Trails Bucket List.</p>
 
-<!--more-->
+<p>And that’s where “NFTs for Backpackers” come into play. We plan to release 121 NFTs, one for each trail of the 1st iteration of the bucket list.  The NFTs will be available on OpenSea on the Polygon blockchain.</p>
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+<p>At the same time, we are producing a podcast “NFTs for Backpackers”, which initially will focus on what the scope of our project is and explain the technicalities of launching the NFTs on Opensea. Eventually we will start discussing the trails of the bucket list.</p>
 
-```yaml
-excerpt_separator: "<!--more-->"
-```
+<p>To engage the community and fuel discussions, we started an “NFTs for Backpackers” Instagram account as well. All comments, suggestions and pools’ info gathered through social media, the podcasts and Opensea will be an integral part of our journey to refine our bucket list by replacing trails which the people do not deem worthy to be among the 121 we chose. This will be the 2nd iteration of the bucket list.</p>
 
-If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
+<p>When the 2nd iteration will be finalized, we will have the Ultimate World’s Trails Bucket List. For each new trail which makes the cut, we will release a special edition NFT to commemorate the achievement.</p>
+
+<p>At the end of the day, we will have a democratically recommended, ready-to-go bucket list of places hikers do not want to miss. This could help people prioritize where they want to go next.</p>
+
+<p>We are streamlining the process of people getting their best hiking life. We see value in that.</p>
+
+

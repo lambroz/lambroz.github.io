@@ -2,8 +2,10 @@
 main:
   - title: "The project"
     url: /project/
-    #  - title: "Episodes"
-    #    url: /episodes/
+  - title: "Roadmap"
+    url: /roadmap/
+  - title: "Episodes"
+    url: /episodes/
     #  - title: "The list"
     #    url: /list/
     #  - title: "Gallery"
