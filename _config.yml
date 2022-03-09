@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "NFTs for Backpackers"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Frenk and Gian"
+name                     : "Gian and Frank"
 description              : "An NFT project."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
