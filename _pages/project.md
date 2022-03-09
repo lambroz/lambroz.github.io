@@ -1,7 +1,7 @@
 ---
 title: "The project"
 layout: single
-permalink: /project.html
+permalink: /project.html/
 ---
 
 <p>Financial services consultants by day, and adamant hikers whenever on leave, Gian and Frank consolidated a bucket list of 121 trails (1st iteration) which are considered to be worth doing during a lifetime.</p>
