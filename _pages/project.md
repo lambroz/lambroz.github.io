@@ -1,5 +1,5 @@
 ---
-title: "The project"
+title: "The Project"
 layout: single
 permalink: /project/
 ---

@@ -105,7 +105,7 @@ author:
   name             : "Gian and Frank"
   avatar           : "/assets/images/blue.jpg"
   bio              : # "We like hiking."
-  location         : "Bologna"
+  location         : # "Bologna"
   email            :
   links:
     - label: "Email"
