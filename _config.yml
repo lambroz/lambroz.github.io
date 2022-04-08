@@ -102,8 +102,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gian and Frank"
-  avatar           : "/assets/images/blue.jpg"
+  name             : #"Gian and Frank"
+  avatar           : #"/assets/images/blue.jpg"
   bio              : # "We like hiking."
   location         : # "Bologna"
   email            :
@@ -125,10 +125,10 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/nfts4backpackers/"
+      #url: "https://www.instagram.com/nfts4backpackers/"
     - label: "Opensea"
       icon: "fas fa-fw fa-link"
-      url: "https://opensea.io/collection/nfts4backpackers"
+      #url: "https://opensea.io/collection/nfts4backpackers"
 
 # Site Footer
 footer:
