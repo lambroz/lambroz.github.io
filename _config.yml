@@ -101,34 +101,34 @@ analytics:
 
 
 # Site Author
-author:
-  name             : #"Gian and Frank"
-  avatar           : #"/assets/images/blue.jpg"
-  bio              : # "We like hiking."
-  location         : # "Bologna"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url:  "https://www.instagram.com/nfts4backpackers/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      #url: "https://www.instagram.com/nfts4backpackers/"
-    - label: "Opensea"
-      icon: "fas fa-fw fa-link"
-      #url: "https://opensea.io/collection/nfts4backpackers"
+#author:
+#  name             : #"Gian and Frank"
+#  avatar           : #"/assets/images/blue.jpg"
+#  bio              : # "We like hiking."
+#  location         : # "Bologna"
+#  email            :
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      # url: "mailto:your.name@email.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url:  "https://www.instagram.com/nfts4backpackers/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      # url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      #url: "https://www.instagram.com/nfts4backpackers/"
+#    - label: "Opensea"
+#      icon: "fas fa-fw fa-link"
+#      #url: "https://opensea.io/collection/nfts4backpackers"
 
 # Site Footer
 footer:
