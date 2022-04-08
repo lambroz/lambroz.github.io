@@ -155,6 +155,9 @@ footer:
     - label: "Opensea"
       icon: "fas fa-fw fa-link"
       url: "https://opensea.io/collection/nfts4backpackers"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://tiktok.com/@nfts4backpackers"
 
 
 # Reading Files
