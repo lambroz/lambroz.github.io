@@ -8,8 +8,8 @@ main:
     url: /episodes/
   - title: "Bucket List"
     url: /bucket_list/
-  - title: "Collection"
-    url: /collection/
+    #  - title: "Collection"
+    #    url: /collection/
     #  - title: "The list"
     #    url: /list/
     #  - title: "Gallery"
